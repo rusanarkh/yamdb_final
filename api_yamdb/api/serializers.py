@@ -7,7 +7,6 @@ from rest_framework.relations import SlugRelatedField
 from rest_framework.validators import UniqueTogetherValidator
 from rest_framework_simplejwt.serializers import PasswordField
 from rest_framework_simplejwt.tokens import AccessToken
-
 from reviews.models import Category, Comment, Genre, Review, Title
 
 User = get_user_model()
