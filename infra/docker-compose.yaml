@@ -9,6 +9,7 @@ services:
       - ./.env
   web:
     image: anarkh/web:latest
+    restart: always
     volumes:
     - static_value:/app/static/
     - media_value:/app/media/
