@@ -11,9 +11,8 @@ https://github.com/rusanarkh/yamdb_final
 ```
 
 ## Примеры запросов:
-```
 После запуска проекта примеры можно посмотреть [здесь](http://51.250.104.231:80/redoc/).
-```
 
-[![Build Status](https://github.com/rusanarkh/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg?event=push)](https://github.com/rusanarkh/yamdb_final/actions/workflows/yamdb_workflow.yml)
+## Статус ветки master:
+[![Build Status](https://github.com/rusanarkh/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg?branch=master)](https://github.com/rusanarkh/yamdb_final/actions/workflows/yamdb_workflow.yml)
 
