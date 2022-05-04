@@ -5,22 +5,15 @@
 https://github.com/rusanarkh/yamdb_final
 ```
 ## Ссылка на развернутый проект:
-```
-Сервис доступен по ссылке: http://51.250.104.231:80
-Например: http://51.250.104.231:80/admin
-```
+Сервис доступен по [ссылке](http://51.250.104.231:80)
+Например, [админка](http://51.250.104.231:80/admin)
 
 ## Примеры запросов:
 После запуска проекта примеры можно посмотреть [здесь](http://51.250.104.231:80/redoc/).
 
-
-## Автор:
-Архипов Антон
-rusanarkh@yandex.ru
-
 ## Деплой проекта:
-Смотри [здесь](http://51.250.104.231:80/redoc/).
+Смотри [здесь](https://github.com/rusanarkh/yamdb_final/blob/master/.github/workflows/yamdb_workflow.yml#L45).
 
 
-## Статус ветки master:
 [![Build Status](https://github.com/rusanarkh/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg?branch=master)](https://github.com/rusanarkh/yamdb_final/actions/workflows/yamdb_workflow.yml)
+
