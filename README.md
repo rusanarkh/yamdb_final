@@ -9,7 +9,6 @@
 
 ## Примеры запросов:
 После запуска проекта примеры можно посмотреть [здесь](http://51.250.104.231:80/redoc/)
-(долго грузится и не загружается)
 
 ## Деплой проекта:
 Смотри [здесь](https://github.com/rusanarkh/yamdb_final/blob/master/.github/workflows/yamdb_workflow.yml#L45).
